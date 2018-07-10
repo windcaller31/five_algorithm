@@ -12,6 +12,7 @@ function init_chess(n){
   push_queen(chess_box,row,n)
 }
 
+//rows表示摆放到多少行、n为总行数
 function push_queen(chess_box,row,n){
   // 如果 row == n则说明皇后都放上去了
   // 输出结果递归终止
