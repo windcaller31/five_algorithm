@@ -16,7 +16,7 @@ function cut_rod(p,n){
     return q;
 }
 
-//o为钢条总长度。pn每加一厘米的
+//o为钢条总长度。pn每加一厘米的价格
 var pn = [1,5,8,9,10,17,17,20,24,30];
 var o = 9;
 
